@@ -1,1 +1,1 @@
-# Responsive-Ipad
+https://sfeads.github.io/Responsive-Ipad/
